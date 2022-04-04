@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">282775913017</string>
+  <string name="google_storage_bucket" translatable="false">bulmacahane-f4bb7.appspot.com</string>
+  <string name="project_id" translatable="false">bulmacahane-f4bb7</string>
+  <string name="google_api_key" translatable="false">AIzaSyBBG4t0jBm66DrahQNTzj7zXDxIdWaL6JI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBBG4t0jBm66DrahQNTzj7zXDxIdWaL6JI</string>
+  <string name="google_app_id" translatable="false">1:282775913017:android:e0915608584f60cb88c3e8</string>
+  <string name="default_android_client_id" translatable="false">282775913017-fuf986er3615qcvtml1pi62e14i353uq.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">282775913017-1hs0cijein81vtr7fa5bldi14cphgv68.apps.googleusercontent.com</string>
+</resources>

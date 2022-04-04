@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "282775913017",
+    "project_id": "bulmacahane-f4bb7",
+    "storage_bucket": "bulmacahane-f4bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282775913017:android:9095b58a68c82dfd88c3e8",
+        "android_client_info": {
+          "package_name": "com.KelimelikUniversite.KelimelikUniversite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282775913017-b8iv5k14v12gcbalh3nn2iuq5vvbb546.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite.KelimelikUniversite",
+            "certificate_hash": "8fb6c71d916fe2f1a4cb242ba5add240d40a752d"
+          }
+        },
+        {
+          "client_id": "282775913017-dt9ol6sueoraqt5q1e0vuuk2au3kkqd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite.KelimelikUniversite",
+            "certificate_hash": "e0961e7e17c6723609608efd05c5be41ef8278ab"
+          }
+        },
+        {
+          "client_id": "282775913017-eii4eq1a3dh8m1o4ump9t24o47qgrqrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite.KelimelikUniversite",
+            "certificate_hash": "a9759c64ddb0a224e1da616ad2890037058afdba"
+          }
+        },
+        {
+          "client_id": "282775913017-1hs0cijein81vtr7fa5bldi14cphgv68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBG4t0jBm66DrahQNTzj7zXDxIdWaL6JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282775913017-1hs0cijein81vtr7fa5bldi14cphgv68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282775913017-1dvpddm27cnnh5aoka3g3rsj06bjo2a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.KelimelikUniversite2.KelimelikUniversite2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282775913017:android:e0915608584f60cb88c3e8",
+        "android_client_info": {
+          "package_name": "com.KelimelikUniversite2.KelimelikUniversite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282775913017-fuf986er3615qcvtml1pi62e14i353uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite2.KelimelikUniversite",
+            "certificate_hash": "8fb6c71d916fe2f1a4cb242ba5add240d40a752d"
+          }
+        },
+        {
+          "client_id": "282775913017-gr0t1d6j1a95s84porq2gidpbe100cie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite2.KelimelikUniversite",
+            "certificate_hash": "e0961e7e17c6723609608efd05c5be41ef8278ab"
+          }
+        },
+        {
+          "client_id": "282775913017-v3ffjlr4lda4rq64hj5vl9v5mni7br6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite2.KelimelikUniversite",
+            "certificate_hash": "a9759c64ddb0a224e1da616ad2890037058afdba"
+          }
+        },
+        {
+          "client_id": "282775913017-1hs0cijein81vtr7fa5bldi14cphgv68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBG4t0jBm66DrahQNTzj7zXDxIdWaL6JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282775913017-1hs0cijein81vtr7fa5bldi14cphgv68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282775913017-1dvpddm27cnnh5aoka3g3rsj06bjo2a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.KelimelikUniversite2.KelimelikUniversite2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282775913017:android:2e07b2b74d92205388c3e8",
+        "android_client_info": {
+          "package_name": "com.KelimelikUniversite2.KelimelikUniversite2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282775913017-4qc7p8npn9optglit1t4c1si3va5100a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite2.KelimelikUniversite2",
+            "certificate_hash": "a9759c64ddb0a224e1da616ad2890037058afdba"
+          }
+        },
+        {
+          "client_id": "282775913017-96jfd1rde856130ucr2j5tdlgc11a0b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite2.KelimelikUniversite2",
+            "certificate_hash": "e0961e7e17c6723609608efd05c5be41ef8278ab"
+          }
+        },
+        {
+          "client_id": "282775913017-g1tieb27urjb1f92p31ugcrphu2om4cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.KelimelikUniversite2.KelimelikUniversite2",
+            "certificate_hash": "8fb6c71d916fe2f1a4cb242ba5add240d40a752d"
+          }
+        },
+        {
+          "client_id": "282775913017-1hs0cijein81vtr7fa5bldi14cphgv68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBG4t0jBm66DrahQNTzj7zXDxIdWaL6JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282775913017-1hs0cijein81vtr7fa5bldi14cphgv68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282775913017-1dvpddm27cnnh5aoka3g3rsj06bjo2a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.KelimelikUniversite2.KelimelikUniversite2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
